@@ -1,0 +1,74 @@
+[python]
+"What's the purpose of the built-in zip() function" = [
+        "To iterate over two or more sequences at the same time",
+        "To combine several strings into one",
+        "To compress several files into one archive",
+        "To get information from the user",
+    ]
+    "What's the name of Python's sorting algorithm" = [
+        "Timsort", "Quicksort", "Merge sort", "Bubble sort"
+    ]
+    "What does dict.get(key) return if key isn't found in dict" = [
+        "None", "key", "True", "False",
+    ]
+    "One of the Python frameworks is:" = [
+        "django", "pip", "random.py", "next.js",
+        
+    ]
+[History]
+"When was the Declaration of Independence signed?" = [
+        "1776",
+        "1770",
+        "1767",
+        "1778",
+    ]
+    "The United States bought Alaska from which country?" =[
+        "Russia",
+        "Canada",
+        "Sweden",
+        "Ukraine",
+    ]
+    "Fill in the blank: The 19th Amendment guarantees ____ the right to vote" = [
+        "women",
+        "men",
+        "work",
+        "salary",
+    ]
+    "Which year was George H.W. Bush elected president?" = [
+        "1988",
+        "1984",
+        "1997",
+        "1980",
+    ]
+    "Which four presidents are on Mount Rushmore?" = [
+        "ALL",
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Theodore Roosevelt",
+    ]
+[Movie]
+"When writing Jerry Maguire, what famous actor did Cameron Crowe have in mind to play to title role?"=[
+        "Tom Hanks",
+        "Miley Cyrus",
+        "Robert De Niro",
+        "Al Pacino",
+    ]
+"What year was the first Star Wars released?"=[
+        "1977",
+        "1978",
+        "1974",
+        "1973",
+    ]
+"In what year was the first Harry Potter movie released?"=[
+        "2001",
+        "2002",
+        "2000",
+        "2003",
+    ]
+"Who played Ron Weasley in the Harry Potter movies?"=[
+        "Rupert Grint",
+        
+
+
+    ]
