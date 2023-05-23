@@ -1,3 +1,5 @@
+# Questions that are asked
+
 [python]
 "What's the purpose of the built-in zip() function" = [
         "To iterate over two or more sequences at the same time",
