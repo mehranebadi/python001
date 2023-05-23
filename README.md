@@ -1,2 +1,1 @@
-# python001
-Python codes 
+# mehran ebadi python codes
