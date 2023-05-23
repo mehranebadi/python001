@@ -1,1 +1,0 @@
-# mehran ebadi python codes
