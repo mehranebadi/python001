@@ -2,7 +2,7 @@ from string import ascii_lowercase
 import random
 import tomli
 NUM_QUESTIONS_PER_QUIZ = 5
-with open("D:/_python_/_ask Q_/Q2.toml", mode="rb") as toml_file:
+with open("Q2.toml", mode="rb") as toml_file:
     
     questions = tomli.load(toml_file)
     
