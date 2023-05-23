@@ -1,3 +1,5 @@
+# Written by Mehran Ebadi
+
 from string import ascii_lowercase
 import random
 import tomli
